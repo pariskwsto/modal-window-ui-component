@@ -28,4 +28,6 @@ jobs:
         with:
           context: .
           push: true
-          tags: pariskwsto/modal-window-ui-component:${{ env.TAG_NAME }}
+          tags: |
+            pariskwsto/modal-window-ui-component:${{ env.TAG_NAME }}
+            pariskwsto/modal-window-ui-component:latest
