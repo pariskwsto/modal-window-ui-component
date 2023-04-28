@@ -30,4 +30,3 @@ jobs:
           push: true
           tags: |
             pariskwsto/modal-window-ui-component:${{ env.TAG_NAME }}
-            pariskwsto/modal-window-ui-component:latest
