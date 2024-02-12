@@ -1,13 +1,15 @@
 # Modal Window UI Component
 
-> A modal window ui component with vanilla JavaScript
+> A modal window UI component crafted with vanilla JavaScript
 
-- Live Demo: [https://github.pariskwsto.com/modal-window-ui-component/](https://github.pariskwsto.com/modal-window-ui-component/)
-- GitHub Pages: [https://pariskwsto.github.io/modal-window-ui-component/](https://pariskwsto.github.io/modal-window-ui-component/)
+- Live Demo: [Visit Project Page](https://github.pariskwsto.com/modal-window-ui-component)
+- Alternative URL: [GitHub Pages](https://pariskwsto.github.io/modal-window-ui-component)
 
 ![modal-window-ui-component-ss-1](https://user-images.githubusercontent.com/22442894/175825198-bb20bde8-562d-4d98-9fd5-6e9f2ba35d21.png)
 
 ![modal-window-ui-component-ss-2](https://user-images.githubusercontent.com/22442894/175825201-0a2e624b-5451-4cdd-888d-1f6ac04292c2.png)
+
+A customizable and reusable modal window UI component built with HTML, CSS, and JavaScript. This component can be easily integrated into any project and customized to fit your specific design needs.
 
 ## Contents
 
@@ -18,20 +20,18 @@
 - [License](#license)
 - [Support](#support)
 
-A customizable and reusable modal window UI component built with HTML, CSS, and JavaScript. This component can be easily integrated into any project and customized to fit your specific design needs.
-
 ## Features
 
-- Responsive design
-- User-friendly interface
-- Easy to implement and use
+- Responsive Design
+- User-Friendly Interface
+- Easy Integration
 
 ## Getting Started
 
-1. Clone or download the repository
-2. Open the index.html file in your browser
-3. Integrate the component into your project by including the CSS and JavaScript files
-4. Customize the appearance of the modal window to fit your design needs
+1. Clone or download the repository.
+2. Open the `index.html` file in your preferred browser.
+3. Integrate the component into your project by including the CSS and JavaScript files.
+4. Customize the appearance and behavior of the modal window to suit your design preferences.
 
 ## Technologies Used
 
@@ -41,7 +41,7 @@ A customizable and reusable modal window UI component built with HTML, CSS, and 
 
 ## Credits
 
-This component was designed and built by [pariskwsto](https://github.com/pariskwsto).
+Designed and developed by [pariskwsto](https://github.com/pariskwsto).
 
 ## License
 
@@ -49,4 +49,4 @@ This component is licensed under the [MIT License](https://opensource.org/licens
 
 ## Support
 
-For support and questions, please open an issue in the repository or contact the designer directly.
+For assistance or inquiries, please open an issue in the repository or reach out to the designer directly.
